@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline+Text:wght@300&display=swap');
+
+h1 {
+  font-family: 'Big Shoulders Stencil Display', cursive;
+  font-size: 40px;
+  text-align: center
+}
+
+html, body {
+  background-color: #483D8B;
+  font-family: 'Big Shoulders Inline Text', cursive;
+  padding: 10px;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+  color: #AFEEEE;
+}
+canvas {
+  display: block;
+}
